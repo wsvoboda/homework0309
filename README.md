@@ -24,6 +24,4 @@ The most important thing I learned was how to upload files to a new repository o
 
 We also learned how to push easily from VS Code, without using the terminal! This is easier but I enjoy knowing how to do the push from the terminal as well. 
 
-I had some difficulty pushing this file to GitHub using the easy method so I will ask for help!
-
-Testing ability to upload easily.
+I uploaded the final changes using the easy method in VS Code! I had to troubleshoot a little but I figured it out.
